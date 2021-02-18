@@ -14,7 +14,7 @@ import (
 	"github.com/ipfs/go-ipfs/core/coreapi"
 	mock "github.com/ipfs/go-ipfs/core/mock"
 	"github.com/ipfs/go-ipfs/core/node/libp2p"
-	"github.com/ipfs/go-ipfs/keystore"
+	"github.com/ipfs/go-ipfs-keystore"
 	"github.com/ipfs/go-ipfs/repo"
 
 	"github.com/ipfs/go-datastore"
